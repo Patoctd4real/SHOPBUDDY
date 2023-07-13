@@ -7,7 +7,7 @@ from store.models import *
 from django.contrib.auth.decorators import login_required
 from django.core.files.storage import FileSystemStorage
 
-# Create your views here.
+# Create your views here
 def customer_login(request):
     if request.method == 'POST':
         form = AuthenticationForm(data=request.POST)
