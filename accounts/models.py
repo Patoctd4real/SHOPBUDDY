@@ -2,7 +2,7 @@ from django.db import models
 from category.models import Category
 from store.models import Product
 
-# Create your models here.
+# Create your models here
 
 class StockManagement(models.Model):
     Category = models.ForeignKey(Category, on_delete=models.CASCADE)
