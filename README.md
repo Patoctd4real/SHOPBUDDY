@@ -51,6 +51,6 @@ Their dedication and hard work have helped shape Shopbuddy into what it is today
 
 ## Contact
 For any inquiries or questions, please contact any of the following Developers.
-+ [bakare1234@gmail.com](Developer)
-+ [ximonak@gmail.com](Developer)
-+ [patochristopher@yahoo.com](Developer)
++ [Developer Adeleke](bakare1234@gmail.com)
++ [Developer Peter](ximonak@gmail.com)
++ [Developer Patrick](patochristopher@yahoo.com)
